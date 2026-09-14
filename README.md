@@ -113,7 +113,6 @@ Contributed to product prototypes including the Emergency SOS Band and Automatic
 
 🌐 **Portfolio:** [iyappan-portfolio.vercel.app](https://iyappan-portfolio.vercel.app/)
 
-💻 **GitHub:** [github.com/iyappan-n](https://github.com/iyappan-n)
 
 ---
 
