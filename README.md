@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Iyappan N - Profile Banner" width="100%"/>
+</p>
 # Hi, I'm IYAPPAN N 👋
 
 ### Computer Engineering Student | UI/UX Designer | Frontend Developer
