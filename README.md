@@ -13,55 +13,100 @@ I'm a Computer Engineering student interested in building user-friendly, secure,
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Programming & Web
-- Python
-- HTML
-- CSS
-- JavaScript
+### 💻 Programming & Web
 
-### UI/UX & Design
-- Figma
-- Canva
-- UI/UX Prototyping
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
 
-### Tools & Database
-- Git
-- GitHub
-- MySQL
-- MS Office
+**Python · HTML · CSS · JavaScript**
+
+### 🎨 UI/UX & Design
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" alt="Canva"/>
+</p>
+
+**Figma · Canva · UI/UX Prototyping**
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+**Git · GitHub · MySQL · VS Code · MS Office**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Gamified Learning Platform
-
-UI/UX prototype designed to improve student engagement in rural education.
-
-**Focus Areas**
-- Multilingual support
-- Offline accessibility
-- Teacher dashboard
-- Student progress tracking
-
-### 🌊 Aqua Meta
-
-UI prototype designed for fishermen, students, and researchers.
-
-**Focus Areas**
-- User-friendly interface
-- Accessibility
-- Practical user experience
-
 ### 🆘 Emergency SOS Band
 
-Emergency alert system prototype with GPS location sharing and fall detection.
+<img src="./assets/emergency-sos-band.png" width="100%" alt="Emergency SOS Band">
+
+Emergency wearable prototype designed for quick emergency alerts, real-time location sharing, and fall detection.
+
+**Focus Areas**
+- Instant SOS alerts
+- GPS location sharing
+- Fall detection
+- Emergency contact notification
+- IoT & embedded systems
+
+---
 
 ### 🔒 Automatic Disc Lock System
 
-Motorcycle anti-theft security prototype with ignition-based automation and actuator-based locking logic.
+<img src="./assets/automatic-disc-lock.png" width="100%" alt="Automatic Disc Lock System">
+
+Smart motorcycle security prototype designed around automated disc locking and ignition-based control.
+
+**Focus Areas**
+- Automatic locking
+- Ignition-based automation
+- Anti-theft protection
+- Embedded control logic
+- IoT integration
+
+---
+
+### 🎮 Gamified Learning Platform
+
+<img src="./assets/gamified-learning-platform.png" width="100%" alt="Gamified Learning Platform">
+
+UI/UX prototype focused on improving student engagement in rural education.
+
+**Focus Areas**
+- Multilingual learning
+- Offline accessibility
+- Interactive games
+- Teacher dashboard
+- Student progress tracking
+
+---
+
+### 🌊 Aqua Meta
+
+<img src="./assets/aqua-meta.png" width="100%" alt="Aqua Meta">
+
+Concept-based UI/UX platform designed to support fishermen, students, and researchers.
+
+**Focus Areas**
+- Fishermen support
+- Research insights
+- Real-time data
+- Student learning
+- User-friendly interface
 
 ---
 
@@ -113,7 +158,10 @@ Contributed to product prototypes including the Emergency SOS Band and Automatic
 
 🌐 **Portfolio:** [iyappan-portfolio.vercel.app](https://iyappan-portfolio.vercel.app/)
 
+💻 **GitHub:** [github.com/iyappan-n](https://github.com/iyappan-n)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+**Build · Learn · Grow · Repeat 🚀**
